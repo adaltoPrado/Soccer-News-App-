@@ -1,7 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Soccer News</string>
-    <string name="title_news">News</string>
-    <string name="title_favorites">Favorites</string>
     <string name="txt_openLink">Open link</string>
     <string name="cd_newsImage">News image.</string>
     <string name="cd_favoriteIcon">Favorite icon.</string>
